@@ -30,18 +30,6 @@
     </tbody>
   </table>
   
-  <br />
-  
-  <div>
-    <img src="https://badgen.net/badge/Note/%F0%9F%92%A1/orange" alt="Important Note" width="100"/>
-    <p>
-      <strong>
-        Any sources included in this roadmap are personal recommendations. You can choose one or more sources if you wish, or you can search for other sources.
-      </strong>
-    </p>
-  </div>
-</div>
-
 <br/>
 
 ### :computer:<strong id="websites">Websites</strong>
