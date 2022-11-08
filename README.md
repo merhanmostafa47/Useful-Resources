@@ -26,15 +26,6 @@
         <td align="center">
           <a href="#mix"><b>Mix</b></a>
         </td>
-        <!-- <td align="center">
-          <a href="#backgrounds"><b>Backgrounds</b></a>
-        </td>
-          <td align="center">
-       <a href="illustrations"><b>Illustrations</b></a>
-        </td>
-            <td align="center">
-         <a href="#icons"><b>icons</b></a>
-        </td> -->
       </tr>
     </tbody>
   </table>
@@ -82,7 +73,7 @@
 
 ---
 
-### :dolls:<strong id="icons">Icons</strong>
+### :octocat:<strong id="icons">Icons</strong>
 
 - [Font Awesome](https://fontawesome.com/icons)
 - [Icons8](https://icons8.com/)
