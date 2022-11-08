@@ -86,7 +86,7 @@
 
 ---
 
-### :dolls:<strong id="mix">Mix</strong>
+### :zap:<strong id="mix">Mix</strong>
 
 - [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
 - [Toggle Menus](https://freefrontend.com/css-toggle-menus/)
