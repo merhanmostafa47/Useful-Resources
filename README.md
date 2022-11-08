@@ -29,7 +29,7 @@
       </tr>
     </tbody>
   </table>
-  
+  </div>
 <br/>
 
 ### :computer:<strong id="websites">Websites</strong>
