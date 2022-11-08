@@ -1,4 +1,4 @@
-![Learning for all](https://i.imgur.com/ZdDhMeC.png)
+![Learning for all](https://i.imgur.com/NYL5Bvr.png)
 
 ###   :computer:*Websites*
 - [Web Code Tools](https://webcode.tools/)
