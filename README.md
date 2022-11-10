@@ -4,25 +4,39 @@
   <table>
     <thead align="center">
       <tr border: none;>
-        <td colspan="4"><b>:world_map: Content</b></td>
+        <td colspan="6"><b>:world_map: Content</b></td>
       </tr>
     </thead>
     <tbody>
+    <tr>
+      <td colspan="1" rowspan="3"><a href="#websites"><b>🌐Websites</b></a></td>
+      <td colspan="1"><b>💀HTML</b></td>
+      <td colspan="3" align="center"><b>🎨CSS</b></td>
+      <td colspan="1"><b>✨JS</b></td>
+    </tr>
       <tr>
+       <td align="center">
+          <a href="#htmlTips"><b>Tips</b></a>
         <td align="center">
-          <a href="#websites"><b>Websites</b></a>
-        </td>
-        <td align="center">
-          <a href="#backgrounds"><b>Backgrounds & Shapes</b></a>
+          <a href="#backgrounds"><b>Backgrounds</b></a>
         </td>
           <td align="center">
        <a href="illustrations"><b>Illustrations</b></a>
         </td>
             <td align="center">
-         <a href="#icons"><b>icons</b></a>
+         <a href="#icons"><b>Icons</b></a>
         </td>
       </tr>
       <tr>
+        <td align="center">
+          <a href="#"><b></b></a>
+        </td>
+        <td align="center">
+          <a href="#colors"><b>Colors</b></a>
+        </td>
+        <td align="center">
+          <a href="#animation"><b>Animations</b></a>
+        </td>
         <td align="center">
           <a href="#mix"><b>Mix</b></a>
         </td>
@@ -41,11 +55,21 @@
 
 ---
 
-### :sunrise:<strong id="backgrounds">Backgrounds & Shapes</strong>
+### 🔖<strong id="htmlTips">HTML Tips</strong>
+
+- [HTML Tips](https://markodenic.com/html-tips/)
+- [HTML Reference](https://htmlreference.io/)
+
+---
+
+### 🖼️<strong id="backgrounds">Backgrounds</strong>
 
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Blur Background Generator](https://wweb.dev/resources/blur-background-css-generator/)
 - [Web Gradients](https://webgradients.com/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)
+- [Glassmorphism CSS generator](https://css.glass/)
 - [Waves Generator](https://getwaves.io/)
 - [Wavy background](https://blog.devgenius.io/wavy-background-with-css-svg-4910821c2b87)
 - [Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
@@ -61,26 +85,50 @@
 
 ---
 
-### :octocat:<strong id="icons">Icons</strong>
+### ⭐<strong id="icons">Icons</strong>
 
 - [Font Awesome](https://fontawesome.com/icons)
 - [Icons8](https://icons8.com/)
 - [css.gg](https://css.gg/)
+- [Lordicon](https://lordicon.com/)
 - [Themify](https://themify.me/themify-icons)
 - [Feathericons](https://feathericons.com/)
 - [Boxicons](https://boxicons.com/)
+- [Eva icons](https://akveo.github.io/eva-icons/#/)
 - [Thenounproject](https://thenounproject.com/icons/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ---
 
-### :zap:<strong id="mix">Mix</strong>
+### 🎨<strong id="colors">Colors</strong>
 
-- [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
-- [Toggle Menus](https://freefrontend.com/css-toggle-menus/)
-- [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
-- [Moving Letters](https://tobiasahlin.com/moving-letters/)
+- [ColorHexa](https://www.colorhexa.com/)
+- [Icons8](https://icons8.com/)
+- [Brand Colors](https://brandcolors.net/)
+- [Color palettes generator](https://coolors.co/)
+- [Material Palette](https://www.materialpalette.com/colors)
+- [Color Hunt](https://colorhunt.co/)
+- [Visme](https://visme.co/blog/website-color-schemes/)
+
+---
+
+### 👀<strong id="animation">Animation</strong>
+
+- [Animista](https://animista.net/)
+- [Animate](https://animate.style/)
+- [Button hover animation](https://blog.stackfindover.com/css-button-hover-animation/)
+- [Animation hover effects](https://www.proglobalbusinesssolutions.com/css-hover-effects/)
+- [Underline/Overlay Animation](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
+
+---
+
+### 💡<strong id="mix">Mix</strong>
+
 - [Spinners](https://tobiasahlin.com/spinkit/)
+- [Toggle Menus](https://freefrontend.com/css-toggle-menus/)
 - [Checkbox Styles](https://alvarotrigo.com/blog/css-checkbox-styles/)
-- [Magnetic Hover Interaction](https://codepen.io/dev_loop/pen/KKdEgdz)
+- [Moving Letters](https://tobiasahlin.com/moving-letters/)
+- [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
+- [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
 - [Modern CSS Selectors](https://blog.openreplay.com/modern-css-selectors/)
+- [Magnetic Hover Interaction](https://codepen.io/dev_loop/pen/KKdEgdz)
