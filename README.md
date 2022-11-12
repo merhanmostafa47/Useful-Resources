@@ -26,6 +26,9 @@
             <td align="center">
          <a href="#icons"><b>Icons</b></a>
         </td>
+            <td align="center">
+         <a href="#libraries"><b>libraries</b></a>
+        </td>
       </tr>
       <tr>
         <td align="center">
@@ -52,6 +55,11 @@
 - [wweb.dev](https://wweb.dev/)
 - [CSS Properties & Selectors](https://css-tricks.com/almanac/)
 - [CSS Triggers](https://csstriggers.com/)
+- [Can I Use](https://caniuse.com/)
+- [exercism](https://exercism.org/)
+- [keyframes](https://keyframes.app/)
+- [Documatic](https://www.documatic.com/)
+- [Getform](https://app.getform.io/)
 
 ---
 
@@ -122,7 +130,7 @@
 
 ---
 
-### 💡<strong id="mix">Mix</strong>
+### 💡<strong id="mix">Creative Examples</strong>
 
 - [Spinners](https://tobiasahlin.com/spinkit/)
 - [Toggle Menus](https://freefrontend.com/css-toggle-menus/)
@@ -132,3 +140,20 @@
 - [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
 - [Modern CSS Selectors](https://blog.openreplay.com/modern-css-selectors/)
 - [Magnetic Hover Interaction](https://codepen.io/dev_loop/pen/KKdEgdz)
+
+---
+
+
+### 📂<strong id="libraries">JS Libraries</strong>
+
+- [Aos](https://michalsnik.github.io/aos/)
+- [Anime Js](https://animejs.com/)
+- [Chart Js](https://www.chartjs.org/docs/latest/)
+- [Print Js](https://printjs.crabbly.com/)
+- [Sweat Alert](https://sweetalert2.github.io/)
+- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+- [Lightgallery Js](https://www.lightgalleryjs.com/docs/getting-started/)
+- [Bideo (fullscreen background videos)](https://rishabhp.github.io/bideo.js/)
+- [Cleave (Format your `<input/>` content)](https://nosir.github.io/cleave.js/)
+- [Granim (interactive gradient animations)](https://sarcadass.github.io/granim.js/index.html)
+- [Moment (display dates and times)](https://momentjs.com/)
