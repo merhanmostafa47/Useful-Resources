@@ -147,12 +147,14 @@
 ### 📂<strong id="libraries">JS Libraries</strong>
 
 - [Aos](https://michalsnik.github.io/aos/)
+- <a src="https://michalsnik.github.io/aos/" target="_blank">Aos</a>
 - [Anime Js](https://animejs.com/)
 - [Chart Js](https://www.chartjs.org/docs/latest/)
 - [Print Js](https://printjs.crabbly.com/)
 - [Sweat Alert](https://sweetalert2.github.io/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Lightgallery Js](https://www.lightgalleryjs.com/docs/getting-started/)
+- [Particles Js](https://vincentgarreau.com/particles.js/)
 - [Bideo (fullscreen background videos)](https://rishabhp.github.io/bideo.js/)
 - [Cleave (Format your `<input/>` content)](https://nosir.github.io/cleave.js/)
 - [Granim (interactive gradient animations)](https://sarcadass.github.io/granim.js/index.html)
