@@ -146,8 +146,7 @@
 
 ### 📂<strong id="libraries">JS Libraries</strong>
 
-- [Aos](https://michalsnik.github.io/aos/)
-- <a src="https://michalsnik.github.io/aos/" target="_blank">Aos</a>
+- <a href="https://michalsnik.github.io/aos/" target="_blank">Aos</a>
 - [Anime Js](https://animejs.com/)
 - [Chart Js](https://www.chartjs.org/docs/latest/)
 - [Print Js](https://printjs.crabbly.com/)
