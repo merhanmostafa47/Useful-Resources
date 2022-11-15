@@ -57,6 +57,8 @@
 - [CSS Triggers](https://csstriggers.com/)
 - [Can I Use](https://caniuse.com/)
 - [exercism](https://exercism.org/)
+- <a href="https://overapi.com/" target="_blank">Overapi</a>
+- <a href="https://www.magiceraser.io/" target="_blank">Magic Eraser</a>
 - [keyframes](https://keyframes.app/)
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
