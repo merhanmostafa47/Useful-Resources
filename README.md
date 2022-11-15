@@ -149,7 +149,7 @@
 ### 📂<strong id="libraries">JS Libraries</strong>
 
 - <a href="https://michalsnik.github.io/aos/" target="_blank">Aos</a>
-- [Anime Js](https://animejs.com/)
+- [Anime Js](https://animejs.com/){:target="\_blank"}
 - [Chart Js](https://www.chartjs.org/docs/latest/)
 - [Print Js](https://printjs.crabbly.com/)
 - [Sweat Alert](https://sweetalert2.github.io/)
