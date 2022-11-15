@@ -148,7 +148,9 @@
 - [Checkbox Styles](https://alvarotrigo.com/blog/css-checkbox-styles/)
 - [Moving Letters](https://tobiasahlin.com/moving-letters/)
 - [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
+- [Blobmaker](https://www.blobmaker.app/)
 - [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
+- [Neumorphism](https://neumorphism.io/)
 - [Modern CSS Selectors](https://blog.openreplay.com/modern-css-selectors/)
 - [Magnetic Hover Interaction](https://codepen.io/dev_loop/pen/KKdEgdz)
 
