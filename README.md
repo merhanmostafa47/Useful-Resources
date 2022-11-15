@@ -57,11 +57,12 @@
 - [CSS Triggers](https://csstriggers.com/)
 - [Can I Use](https://caniuse.com/)
 - [exercism](https://exercism.org/)
-- <a href="https://overapi.com/" target="_blank">Overapi</a>
-- <a href="https://www.magiceraser.io/" target="_blank">Magic Eraser</a>
+- [Overapi](https://overapi.com/)
+- [Magic Eraser](https://www.magiceraser.io/)
 - [keyframes](https://keyframes.app/)
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
+- [Interview-Warmup](https://grow.google/certificates/interview-warmup/)
 
 ---
 
@@ -107,6 +108,14 @@
 - [Eva icons](https://akveo.github.io/eva-icons/#/)
 - [Thenounproject](https://thenounproject.com/icons/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Iconpacks](https://www.iconpacks.net/)
+- [Lineicons](https://lineicons.com/icons/)
+- [Iconshock](https://www.iconshock.com/)
+- [Iconsvg](https://iconsvg.xyz/)
+- [Iconmonstr](https://iconmonstr.com/)
+- [Iconscout](https://iconscout.com/)
+- [Ikonate](https://ikonate.com/)
+- [Simpleicons](https://simpleicons.org/)
 
 ---
 
@@ -145,11 +154,10 @@
 
 ---
 
-
 ### 📂<strong id="libraries">JS Libraries</strong>
 
-- <a href="https://michalsnik.github.io/aos/" target="_blank">Aos</a>
-- [Anime Js](https://animejs.com/){:target="\_blank"}
+- [Aos](https://michalsnik.github.io/aos/)
+- [Anime Js](https://animejs.com/)
 - [Chart Js](https://www.chartjs.org/docs/latest/)
 - [Print Js](https://printjs.crabbly.com/)
 - [Sweat Alert](https://sweetalert2.github.io/)
