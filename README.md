@@ -54,7 +54,7 @@
 - [Web Code Tools](https://webcode.tools/)
 - [wweb.dev](https://wweb.dev/)
 - [CSS Properties & Selectors](https://css-tricks.com/almanac/)
-- - [CSS Generators](https://css-generators.com/)
+-  [CSS Generators](https://css-generators.com/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Can I Use](https://caniuse.com/)
 - [exercism](https://exercism.org/)
@@ -137,6 +137,12 @@
 - [Iconscout](https://iconscout.com/)
 - [Ikonate](https://ikonate.com/)
 - [Simpleicons](https://simpleicons.org/)
+- [Fontello](https://fontello.com/)
+- [Remixicon](https://remixicon.com/)
+- [Iconscout](https://iconscout.com/unicons/explore/line)
+- [Heroicons](https://heroicons.dev/)
+- [SVG Repo](https://www.svgrepo.com/)
+- [Ionicons](https://ionic.io/ionicons)
 
 ---
 
@@ -200,7 +206,7 @@
 
 ---
 
-### 📂<strong id="courses">Courses Platforms</strong>
+### 💻 <strong id="courses">Courses Platforms</strong>
 
 - [Udacity](https://classroom.udacity.com/)
 - [Coursera](https://www.coursera.org/)
@@ -218,7 +224,7 @@
 
 ---
 
-### 📂<strong id="problem-solving">Problem Solving</strong>
+### 💡<strong id="problem-solving">Problem Solving</strong>
 
 - [Hackerrank](https://www.hackerrank.com/)
 - [Leetcode](https://leetcode.com/)
@@ -226,10 +232,17 @@
 
 ---
 
-### 📂<strong id="freelancing">Freelancing Platforms</strong>
+### 💸<strong id="freelancing">Freelancing Platforms</strong>
 
 - [Freelancer](https://www.freelancer.com/)
 - [Upwork](https://www.upwork.com/)
 - [Fiverr](https://www.fiverr.com/)
 - [Khamsat](https://khamsat.com/)
 - [Mostaql](https://mostaql.com/)
+- [We work remotly](https://weworkremotely.com/)
+- [Remoteok](https://remoteok.com/)
+- [Flexjobs](https://www.flexjobs.com/)
+- [Remote.co](https://remote.co/)
+- [Just remote](https://justremote.co/)
+- [Remote leaf](https://remoteleaf.com/)
+- [DailyRemote](https://dailyremote.com/)
