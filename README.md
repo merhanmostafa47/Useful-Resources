@@ -54,6 +54,7 @@
 - [Web Code Tools](https://webcode.tools/)
 - [wweb.dev](https://wweb.dev/)
 - [CSS Properties & Selectors](https://css-tricks.com/almanac/)
+- - [CSS Generators](https://css-generators.com/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Can I Use](https://caniuse.com/)
 - [exercism](https://exercism.org/)
