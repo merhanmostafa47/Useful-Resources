@@ -67,6 +67,16 @@
 
 ---
 
+### 🖼️<strong id="pictures">Pictures</strong>
+
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
+- [Unsplash](https://unsplash.com/)
+- [Stocksnap](https://stocksnap.io/)
+- [Burst Shopify](https://burst.shopify.com/)
+
+---
+
 ### 🔖<strong id="htmlTips">HTML Tips</strong>
 
 - [HTML Tips](https://markodenic.com/html-tips/)
@@ -86,6 +96,8 @@
 - [Wavy background](https://blog.devgenius.io/wavy-background-with-css-svg-4910821c2b87)
 - [Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 - [Clip path](https://bennettfeely.com/clippy/)
+- [SVG Backgrounds](https://www.svgbackgrounds.com/)
+- [BGJar](https://bgjar.com/)
 
 ---
 
@@ -94,6 +106,13 @@
 - [Storyset](https://storyset.com/)
 - [Blush](https://blush.design/)
 - [Undraw](https://undraw.co/illustrations)
+- [Iradesign](https://iradesign.io/)
+- [Drawkit](https://www.drawkit.com/)
+- [Opendoodles](https://opendoodles.com/)
+- [Illlustrations](https://illlustrations.co/)
+- [pixeltrue](https://www.pixeltrue.com/)
+- [Openpeeps](https://openpeeps.com/)
+- [Humaaans](https://humaaans.com/)
 
 ---
 
@@ -101,6 +120,7 @@
 
 - [Font Awesome](https://fontawesome.com/icons)
 - [Icons8](https://icons8.com/)
+- [Flaticon](https://www.flaticon.com/free-icons/library)
 - [css.gg](https://css.gg/)
 - [Lordicon](https://lordicon.com/)
 - [Themify](https://themify.me/themify-icons)
@@ -123,12 +143,13 @@
 ### 🎨<strong id="colors">Colors</strong>
 
 - [ColorHexa](https://www.colorhexa.com/)
-- [Icons8](https://icons8.com/)
 - [Brand Colors](https://brandcolors.net/)
 - [Color palettes generator](https://coolors.co/)
 - [Material Palette](https://www.materialpalette.com/colors)
 - [Color Hunt](https://colorhunt.co/)
 - [Visme](https://visme.co/blog/website-color-schemes/)
+- [Flatuicolors](https://flatuicolors.com/)
+- [Canva Color Wheel](https://www.canva.com/colors/color-wheel/)
 
 ---
 
@@ -160,14 +181,55 @@
 ### 📂<strong id="libraries">JS Libraries</strong>
 
 - [Aos](https://michalsnik.github.io/aos/)
-- [Anime Js](https://animejs.com/)
-- [Chart Js](https://www.chartjs.org/docs/latest/)
-- [Print Js](https://printjs.crabbly.com/)
+- [ApexCharts.js](https://apexcharts.com/)
+- [Anime.js](https://animejs.com/)
+- [Email.js](https://www.emailjs.com)
+- [Chart.js](https://www.chartjs.org/docs/latest/)
+- [Print.js](https://printjs.crabbly.com/)
+- [Toastify.js](https://apvarun.github.io/toastify-js/)
+- [Hammer.js](https://hammerjs.github.io/getting-started/)
 - [Sweat Alert](https://sweetalert2.github.io/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
-- [Lightgallery Js](https://www.lightgalleryjs.com/docs/getting-started/)
-- [Particles Js](https://vincentgarreau.com/particles.js/)
+- [Lightgallery.js](https://www.lightgalleryjs.com/docs/getting-started/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
 - [Bideo (fullscreen background videos)](https://rishabhp.github.io/bideo.js/)
 - [Cleave (Format your `<input/>` content)](https://nosir.github.io/cleave.js/)
 - [Granim (interactive gradient animations)](https://sarcadass.github.io/granim.js/index.html)
 - [Moment (display dates and times)](https://momentjs.com/)
+- [Isotope](https://isotope.metafizzy.co/)
+
+---
+
+### 📂<strong id="courses">Courses Platforms</strong>
+
+- [Udacity](https://classroom.udacity.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udemy](https://www.udemy.com/)
+- [Sololearn](https://www.sololearn.com/Profile/13719657#_=_)
+- [FreeCodeCamp](https://www.freecodecamp.org/jrazap)
+- [Edraak](https://www.edraak.org/)
+- [Edx](https://courses.edx.org/)
+- [Sprints](https://programs.sprints.ai/)
+- [Stanford](https://online.stanford.edu/free-courses)
+- [Tera Courses](https://teracourses.com/)
+- [Codewithmosh](https://codewithmosh.com/)
+- [Your Acclaim](https://www.youracclaim.com/)
+- [Codewithmosh](https://courseclub.me/)
+
+---
+
+### 📂<strong id="problem-solving">Problem Solving</strong>
+
+- [Hackerrank](https://www.hackerrank.com/)
+- [Leetcode](https://leetcode.com/)
+- [Beecrowd](https://www.beecrowd.com.br/)
+
+---
+
+### 📂<strong id="freelancing">Freelancing Platforms</strong>
+
+- [Freelancer](https://www.freelancer.com/)
+- [Upwork](https://www.upwork.com/)
+- [Fiverr](https://www.fiverr.com/)
+- [Khamsat](https://khamsat.com/)
+- [Mostaql](https://mostaql.com/)
