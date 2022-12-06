@@ -111,6 +111,8 @@
 - [Magic Eraser](https://www.magiceraser.io/)
 - [Magic Pattern](https://www.magicpattern.design/)
 - [keyframes](https://keyframes.app/)
+- [ScrollTrigger](https://greensock.com/st-demos/)
+- [Plugins](https://greensock.com/gsap-plugins/)
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
 - [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
@@ -142,6 +144,10 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [Leetcode](https://leetcode.com/)
 - [Beecrowd](https://www.beecrowd.com.br/)
+- [Codewars](https://www.codewars.com/)
+- [Codechef](https://www.codechef.com/)
+- [Codeforces](https://codeforces.com/)
+- [Codingninjas](https://www.codingninjas.com/)
 - [exercism](https://exercism.org/)
 
 ---
