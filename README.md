@@ -192,6 +192,12 @@
 - [pixeltrue](https://www.pixeltrue.com/)
 - [Openpeeps](https://openpeeps.com/)
 - [Humaaans](https://humaaans.com/)
+- [Usesmash](https://usesmash.com/)
+- [Open Stickers](https://openstickers.craftwork.design/)
+- [IRA Design](https://iradesign.io/illustrations)
+- [Illustration Kit](https://illustrationkit.com/)
+- [Highlights Design](https://www.highlights.design/)
+- [Free SVG Illustration](https://freesvgillustration.com/)
 
 ---
 
