@@ -4,27 +4,34 @@
   <table>
     <thead align="center">
       <tr border: none;>
-        <td colspan="6"><b>:world_map: Content</b></td>
+        <td colspan="7"><b>:world_map: Content</b></td>
       </tr>
     </thead>
     <tbody>
     <tr>
-      <td colspan="1" rowspan="3"><a href="#websites"><b>🌐Websites</b></a></td>
-      <td colspan="1"><b>💀HTML</b></td>
+      <td colspan="2" align="center"><b>🌐General</b></td>
+      <td colspan="1" align="center"><b>💀HTML</b></td>
       <td colspan="3" align="center"><b>🎨CSS</b></td>
-      <td colspan="1"><b>✨JS</b></td>
+      <td colspan="1" align="center"><b>✨JS</b></td>
     </tr>
       <tr>
+        <td align="center">
+           <a href="#websites"><b>Websites</b></a>
+        </td>
+        <td align="center">
+           <a href="#courses"><b>Courses Platforms</b></a>
+        </td>
        <td align="center">
           <a href="#htmlTips"><b>Tips</b></a>
+        </td>
+        <td align="center">
+          <a href="#pictures"><b>Pictures</b></a>
+        </td>
+                <td align="center">
+          <a href="illustrations"><b>Illustrations</b></a>
+        </td>
         <td align="center">
           <a href="#backgrounds"><b>Backgrounds</b></a>
-        </td>
-          <td align="center">
-       <a href="illustrations"><b>Illustrations</b></a>
-        </td>
-            <td align="center">
-         <a href="#icons"><b>Icons</b></a>
         </td>
             <td align="center">
          <a href="#libraries"><b>libraries</b></a>
@@ -32,7 +39,16 @@
       </tr>
       <tr>
         <td align="center">
-          <a href="#"><b></b></a>
+          <a href="#problem-solving"><b>Problem Solving</b></a>
+        </td>
+        <td align="center">
+          <a href="#freelancing"><b>Freelancing Platforms</b></a>
+        </td>
+        <td align="center">
+          <a href="#colors"><b></b></a>
+        </td>
+       <td align="center">
+         <a href="#icons"><b>Icons</b></a>
         </td>
         <td align="center">
           <a href="#colors"><b>Colors</b></a>
@@ -40,8 +56,31 @@
         <td align="center">
           <a href="#animation"><b>Animations</b></a>
         </td>
+            <td align="center">
+          <a href="#freelancing"><b></b></a>
+        </td>
+      </tr>
+       <tr>
         <td align="center">
+          <a href="#problem-solving"><b></b></a>
+        </td>
+        <td align="center">
+          <a href="#freelancing"><b></b></a>
+        </td>
+        <td align="center">
+          <a href="#colors"><b></b></a>
+        </td>
+            <td align="center">
           <a href="#mix"><b>Mix</b></a>
+        </td>
+        <td align="center">
+          <a href="#"><b></b></a>
+        </td>
+        <td align="center">
+          <a href="#"><b></b></a>
+        </td>
+        <td align="center">
+          <a href="#"><b></b></a>
         </td>
       </tr>
     </tbody>
@@ -53,27 +92,74 @@
 
 - [Web Code Tools](https://webcode.tools/)
 - [wweb.dev](https://wweb.dev/)
-- [CSS Properties & Selectors](https://css-tricks.com/almanac/)
--  [CSS Generators](https://css-generators.com/)
-- [CSS Triggers](https://csstriggers.com/)
+- [Design Systems](https://designsystemsrepo.com/design-systems-recent/)
 - [Can I Use](https://caniuse.com/)
-- [exercism](https://exercism.org/)
+- [Who Can Use](https://www.whocanuse.com/)
+- [Can I Email](https://www.caniemail.com/)
+- [Component Gallery](https://component.gallery/)
+- [Checklist Design](https://www.checklist.design/)
+- [CSS Timeline](https://css-timeline.vercel.app/)
+- [CSS Ruler](https://katydecorah.com/css-ruler/)
+- [CSS Beautify](https://codebeautify.org/css-tools)
+- [Css Portal](https://www.cssportal.com/)
+- [Css Tricks](https://css-tricks.com/)
+- [CSS Properties & Selectors](https://css-tricks.com/almanac/)
+- [CSS Generators](https://css-generators.com/)
+- [CSS Triggers](https://csstriggers.com/)
+- [Loading.io](https://loading.io/)
 - [Overapi](https://overapi.com/)
 - [Magic Eraser](https://www.magiceraser.io/)
+- [Magic Pattern](https://www.magicpattern.design/)
 - [keyframes](https://keyframes.app/)
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
+- [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
+- [Screensizemap](https://screensizemap.com/)
 - [Interview-Warmup](https://grow.google/certificates/interview-warmup/)
 
 ---
 
-### 🖼️<strong id="pictures">Pictures</strong>
+### 💻 <strong id="courses">Courses Platforms</strong>
 
-- [Pixabay](https://pixabay.com/)
-- [Pexels](https://www.pexels.com/)
-- [Unsplash](https://unsplash.com/)
-- [Stocksnap](https://stocksnap.io/)
-- [Burst Shopify](https://burst.shopify.com/)
+- [Udacity](https://classroom.udacity.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udemy](https://www.udemy.com/)
+- [Sololearn](https://www.sololearn.com/Profile/13719657#_=_)
+- [FreeCodeCamp](https://www.freecodecamp.org/jrazap)
+- [Edraak](https://www.edraak.org/)
+- [Edx](https://courses.edx.org/)
+- [Sprints](https://programs.sprints.ai/)
+- [Stanford](https://online.stanford.edu/free-courses)
+- [Tera Courses](https://teracourses.com/)
+- [Codewithmosh](https://codewithmosh.com/)
+- [Your Acclaim](https://www.youracclaim.com/)
+- [Codewithmosh](https://courseclub.me/)
+
+---
+
+### 💡<strong id="problem-solving">Problem Solving</strong>
+
+- [Hackerrank](https://www.hackerrank.com/)
+- [Leetcode](https://leetcode.com/)
+- [Beecrowd](https://www.beecrowd.com.br/)
+- [exercism](https://exercism.org/)
+
+---
+
+### 💸<strong id="freelancing">Freelancing Platforms</strong>
+
+- [Freelancer](https://www.freelancer.com/)
+- [Upwork](https://www.upwork.com/)
+- [Fiverr](https://www.fiverr.com/)
+- [Khamsat](https://khamsat.com/)
+- [Mostaql](https://mostaql.com/)
+- [We work remotly](https://weworkremotely.com/)
+- [Remoteok](https://remoteok.com/)
+- [Flexjobs](https://www.flexjobs.com/)
+- [Remote.co](https://remote.co/)
+- [Just remote](https://justremote.co/)
+- [Remote leaf](https://remoteleaf.com/)
+- [DailyRemote](https://dailyremote.com/)
 
 ---
 
@@ -84,20 +170,13 @@
 
 ---
 
-### 🖼️<strong id="backgrounds">Backgrounds</strong>
+### 🖼️<strong id="pictures">Pictures</strong>
 
-- [Cool Backgrounds](https://coolbackgrounds.io/)
-- [Blur Background Generator](https://wweb.dev/resources/blur-background-css-generator/)
-- [Web Gradients](https://webgradients.com/)
-- [CSS Gradient](https://cssgradient.io/)
-- [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)
-- [Glassmorphism CSS generator](https://css.glass/)
-- [Waves Generator](https://getwaves.io/)
-- [Wavy background](https://blog.devgenius.io/wavy-background-with-css-svg-4910821c2b87)
-- [Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
-- [Clip path](https://bennettfeely.com/clippy/)
-- [SVG Backgrounds](https://www.svgbackgrounds.com/)
-- [BGJar](https://bgjar.com/)
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
+- [Unsplash](https://unsplash.com/)
+- [Stocksnap](https://stocksnap.io/)
+- [Burst Shopify](https://burst.shopify.com/)
 
 ---
 
@@ -113,6 +192,36 @@
 - [pixeltrue](https://www.pixeltrue.com/)
 - [Openpeeps](https://openpeeps.com/)
 - [Humaaans](https://humaaans.com/)
+
+---
+
+### 🖼️<strong id="backgrounds">Patterns & Backgrounds</strong>
+
+- [Cool Backgrounds](https://coolbackgrounds.io/)
+- [Blur Background Generator](https://wweb.dev/resources/blur-background-css-generator/)
+- [Web Gradients](https://webgradients.com/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)
+- [Glassmorphism CSS generator](https://css.glass/)
+- [Glassmorphism generator](https://hype4.academy/tools/glassmorphism-generator)
+- [Waves Generator](https://getwaves.io/)
+- [Wavy Background](https://blog.devgenius.io/wavy-background-with-css-svg-4910821c2b87)
+- [Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
+- [Clip Path](https://bennettfeely.com/clippy/)
+- [SVG Backgrounds](https://www.svgbackgrounds.com/)
+- [BGJar](https://bgjar.com/)
+- [Trianglify](https://trianglify.io/)
+- [Clothoid Corner](https://onotakehiko.dev/clothoid/)
+- [CSS Filter](https://www.cssfilters.co/)
+- [Hero Patterns](https://heropatterns.com/)
+- [Background Patterns](https://app.haikei.app/)
+- [Pattern Generator](https://doodad.dev/pattern-generator/)
+- [CSS Pattern](https://css-pattern.com/)
+- [Patternizer](https://patternizer.com/)
+- [Patternify](http://www.patternify.com/)
+- [Magic Pattern](https://www.magicpattern.design/tools/css-backgrounds)
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+- [Animated Background Generator](https://wweb.dev/resources/animated-css-background-generator/)
 
 ---
 
@@ -156,6 +265,15 @@
 - [Visme](https://visme.co/blog/website-color-schemes/)
 - [Flatuicolors](https://flatuicolors.com/)
 - [Canva Color Wheel](https://www.canva.com/colors/color-wheel/)
+- [Color Designer](https://colordesigner.io/tools)
+- [Parametric Mixer](https://colormixer.web.app/)
+- [Palettte.](https://palettte.app/)
+- [Paletton](https://paletton.com/)
+- [Color Palettes](https://colorpalettes.earth/)
+- [Grabient](https://www.grabient.com/)
+- [Easing Gradients](https://larsenwork.com/easing-gradients/#editor)
+- [Shadow Color](https://shadows.brumm.af/)
+- [CSS Glow](https://cssbud.com/css-generator/css-glow-generator/)
 
 ---
 
@@ -166,12 +284,18 @@
 - [Button hover animation](https://blog.stackfindover.com/css-button-hover-animation/)
 - [Animation hover effects](https://www.proglobalbusinesssolutions.com/css-hover-effects/)
 - [Underline/Overlay Animation](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
+- [Cubic Bezier](https://cubic-bezier.com/)
+- [Keyframe](https://keyframes.app/animate)
+- [Transition Style](https://www.transition.style/)
 
 ---
 
 ### 💡<strong id="mix">Creative Examples</strong>
 
 - [Spinners](https://tobiasahlin.com/spinkit/)
+- [Whirl](https://whirl.netlify.app/)
+- [Loading Spinners](https://loading.io/spinner/)
+- [Css Loader Generator](https://www.cssportal.com/css-loader-generator/)
 - [Toggle Menus](https://freefrontend.com/css-toggle-menus/)
 - [Checkbox Styles](https://alvarotrigo.com/blog/css-checkbox-styles/)
 - [Moving Letters](https://tobiasahlin.com/moving-letters/)
@@ -203,46 +327,3 @@
 - [Granim (interactive gradient animations)](https://sarcadass.github.io/granim.js/index.html)
 - [Moment (display dates and times)](https://momentjs.com/)
 - [Isotope](https://isotope.metafizzy.co/)
-
----
-
-### 💻 <strong id="courses">Courses Platforms</strong>
-
-- [Udacity](https://classroom.udacity.com/)
-- [Coursera](https://www.coursera.org/)
-- [Udemy](https://www.udemy.com/)
-- [Sololearn](https://www.sololearn.com/Profile/13719657#_=_)
-- [FreeCodeCamp](https://www.freecodecamp.org/jrazap)
-- [Edraak](https://www.edraak.org/)
-- [Edx](https://courses.edx.org/)
-- [Sprints](https://programs.sprints.ai/)
-- [Stanford](https://online.stanford.edu/free-courses)
-- [Tera Courses](https://teracourses.com/)
-- [Codewithmosh](https://codewithmosh.com/)
-- [Your Acclaim](https://www.youracclaim.com/)
-- [Codewithmosh](https://courseclub.me/)
-
----
-
-### 💡<strong id="problem-solving">Problem Solving</strong>
-
-- [Hackerrank](https://www.hackerrank.com/)
-- [Leetcode](https://leetcode.com/)
-- [Beecrowd](https://www.beecrowd.com.br/)
-
----
-
-### 💸<strong id="freelancing">Freelancing Platforms</strong>
-
-- [Freelancer](https://www.freelancer.com/)
-- [Upwork](https://www.upwork.com/)
-- [Fiverr](https://www.fiverr.com/)
-- [Khamsat](https://khamsat.com/)
-- [Mostaql](https://mostaql.com/)
-- [We work remotly](https://weworkremotely.com/)
-- [Remoteok](https://remoteok.com/)
-- [Flexjobs](https://www.flexjobs.com/)
-- [Remote.co](https://remote.co/)
-- [Just remote](https://justremote.co/)
-- [Remote leaf](https://remoteleaf.com/)
-- [DailyRemote](https://dailyremote.com/)
