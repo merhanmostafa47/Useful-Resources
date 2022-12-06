@@ -28,7 +28,7 @@
           <a href="#pictures"><b>Pictures</b></a>
         </td>
                 <td align="center">
-          <a href="illustrations"><b>Illustrations</b></a>
+          <a href="#illustrations"><b>Illustrations</b></a>
         </td>
         <td align="center">
           <a href="#backgrounds"><b>Backgrounds</b></a>
@@ -45,7 +45,7 @@
           <a href="#freelancing"><b>Freelancing Platforms</b></a>
         </td>
         <td align="center">
-          <a href="#colors"><b></b></a>
+          <a href="#"><b></b></a>
         </td>
        <td align="center">
          <a href="#icons"><b>Icons</b></a>
@@ -57,18 +57,18 @@
           <a href="#animation"><b>Animations</b></a>
         </td>
             <td align="center">
-          <a href="#freelancing"><b></b></a>
+          <a href="#"><b></b></a>
         </td>
       </tr>
        <tr>
         <td align="center">
-          <a href="#problem-solving"><b></b></a>
+          <a href="#"><b></b></a>
         </td>
         <td align="center">
-          <a href="#freelancing"><b></b></a>
+          <a href="#"><b></b></a>
         </td>
         <td align="center">
-          <a href="#colors"><b></b></a>
+          <a href="#"><b></b></a>
         </td>
             <td align="center">
           <a href="#mix"><b>Mix</b></a>
