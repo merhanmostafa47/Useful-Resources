@@ -45,7 +45,7 @@
           <a href="#freelancing"><b>Freelancing Platforms</b></a>
         </td>
         <td align="center">
-          <a href="#"><b></b></a>
+      <a href="#"><b></b></a>
         </td>
        <td align="center">
          <a href="#icons"><b>Icons</b></a>
@@ -91,26 +91,13 @@
 ### :computer:<strong id="websites">Websites</strong>
 
 - [Web Code Tools](https://webcode.tools/)
-- [wweb.dev](https://wweb.dev/)
 - [Design Systems](https://designsystemsrepo.com/design-systems-recent/)
 - [Can I Use](https://caniuse.com/)
 - [Who Can Use](https://www.whocanuse.com/)
 - [Can I Email](https://www.caniemail.com/)
 - [Component Gallery](https://component.gallery/)
 - [Checklist Design](https://www.checklist.design/)
-- [CSS Timeline](https://css-timeline.vercel.app/)
-- [CSS Ruler](https://katydecorah.com/css-ruler/)
-- [CSS Beautify](https://codebeautify.org/css-tools)
-- [Css Portal](https://www.cssportal.com/)
-- [Css Tricks](https://css-tricks.com/)
-- [Cssmatic](https://www.cssmatic.com/)
-- [Enjoycss](https://enjoycss.com/)
-- [Cssgrid](https://cssgrid.io/)
-- [CSS Properties & Selectors](https://css-tricks.com/almanac/)
-- [CSS Generators](https://css-generators.com/)
-- [CSS Triggers](https://csstriggers.com/)
-- [Loading.io](https://loading.io/)
-- [Overapi](https://overapi.com/)
+- [Interview-Warmup](https://grow.google/certificates/interview-warmup/)
 - [Magic Eraser](https://www.magiceraser.io/)
 - [Magic Pattern](https://www.magicpattern.design/)
 - [keyframes](https://keyframes.app/)
@@ -119,8 +106,36 @@
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
 - [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
-- [Screensizemap](https://screensizemap.com/)
-- [Interview-Warmup](https://grow.google/certificates/interview-warmup/)
+
+- #### Learning Resources
+
+  - [developer.mozilla (MDN)](https://developer.mozilla.org/en-US/)
+  - [Freecodecamp](https://www.freecodecamp.org/learn)
+  - [Theodinproject](https://www.theodinproject.com/)
+  - [Frontendpractice](https://www.frontendpractice.com/)
+  - [Frontendmentor](https://www.frontendmentor.io/)
+  - [Codecademy](https://www.codecademy.com/)
+  - [wweb.dev](https://wweb.dev/)
+  - [W3schools](https://www.w3schools.com/)
+  - [Javascript.info](https://javascript.info/)
+  - [Javascript30](https://javascript30.com/)
+
+- #### CSS
+  - [CSS Timeline](https://css-timeline.vercel.app/)
+  - [CSS Ruler](https://katydecorah.com/css-ruler/)
+  - [CSS Beautify](https://codebeautify.org/css-tools)
+  - [Css Portal](https://www.cssportal.com/)
+  - [Css Tricks](https://css-tricks.com/)
+  - [Cssmatic](https://www.cssmatic.com/)
+  - [Enjoycss](https://enjoycss.com/)
+  - [Cssgrid](https://cssgrid.io/)
+  - [CSS Properties & Selectors](https://css-tricks.com/almanac/)
+  - [CSS Generators](https://css-generators.com/)
+  - [CSS Triggers](https://csstriggers.com/)
+  - [Loading.io](https://loading.io/)
+  - [Hola SVG Loaders](https://loaders.holasvg.com/)
+  - [Overapi](https://overapi.com/)
+  - [Screensizemap](https://screensizemap.com/)
 
 ---
 
@@ -173,10 +188,13 @@
 - [Leetcode](https://leetcode.com/)
 - [Beecrowd](https://www.beecrowd.com.br/)
 - [Codewars](https://www.codewars.com/)
+- [Codewell](https://www.codewell.cc/)
 - [Codechef](https://www.codechef.com/)
+- [Coderbyte](https://coderbyte.com/challenges)
 - [Codeforces](https://codeforces.com/)
 - [Codingninjas](https://www.codingninjas.com/)
 - [exercism](https://exercism.org/)
+- [Devchallenges](https://devchallenges.io/)
 
 ---
 
@@ -237,6 +255,7 @@
 
 ### 🖼️<strong id="backgrounds">Patterns & Backgrounds</strong>
 
+- [Gradienta](https://gradienta.io/)
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Blur Background Generator](https://wweb.dev/resources/blur-background-css-generator/)
 - [Web Gradients](https://webgradients.com/)
@@ -247,6 +266,7 @@
 - [Waves Generator](https://getwaves.io/)
 - [Wavy Background](https://blog.devgenius.io/wavy-background-with-css-svg-4910821c2b87)
 - [Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
+- [Shapedivider](https://www.shapedivider.app/)
 - [Clip Path](https://bennettfeely.com/clippy/)
 - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 - [BGJar](https://bgjar.com/)
@@ -255,6 +275,7 @@
 - [CSS Filter](https://www.cssfilters.co/)
 - [Hero Patterns](https://heropatterns.com/)
 - [Background Patterns](https://app.haikei.app/)
+- [Patterns.beaubus](https://patterns.beaubus.com/)
 - [Pattern Generator](https://doodad.dev/pattern-generator/)
 - [CSS Pattern](https://css-pattern.com/)
 - [Patternizer](https://patternizer.com/)
@@ -269,6 +290,7 @@
 
 - [Font Awesome](https://fontawesome.com/icons)
 - [Icons8](https://icons8.com/)
+- [Iconer](https://iconer.app/)
 - [Flaticon](https://www.flaticon.com/free-icons/library)
 - [css.gg](https://css.gg/)
 - [Lordicon](https://lordicon.com/)
