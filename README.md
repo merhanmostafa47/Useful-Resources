@@ -62,7 +62,7 @@
       </tr>
        <tr>
         <td align="center">
-          <a href="#"><b></b></a>
+          <a href="#templates"><b>Templates</b></a>
         </td>
         <td align="center">
           <a href="#"><b></b></a>
@@ -139,6 +139,31 @@
 - [Codewithmosh](https://codewithmosh.com/)
 - [Your Acclaim](https://www.youracclaim.com/)
 - [Codewithmosh](https://courseclub.me/)
+
+---
+
+### 💻 <strong id="templates">Templates</strong>
+
+- [Themeforest](https://themeforest.net/)
+- [Colorlib](https://colorlib.com/wp/templates/)
+- [Wix](https://www.wix.com/website/templates)
+- [HTML5Up](https://html5up.net)
+- [Templatemo](https://templatemo.com)
+- [freehtml5](https://freehtml5.co)
+- [Styleshout](https://www.styleshout.com/)
+- [Start Bootstrap](https://startbootstrap.com/)
+- [Zerotheme](https://www.zerotheme.com)
+- [html5xcss3](https://www.html5xcss3.com/)
+- [Free-CSS](https://www.free-css.com/free-css-templates)
+- [Hubspot](https://www.hubspot.com/resources)
+- [Mobirise](https://mobirise.com/html-templates/)
+- [Bootstrap Made](https://bootstrapmade.com/)
+- [Theme For App](https://themesfor.app/)
+- [Bootstrap Taste](https://bootstraptaste.com/)
+- [One Page Love](https://onepagelove.com/)
+- [Tool Plate](https://www.tooplate.com/)
+- [Cruip](https://cruip.com/free-templates/)
+- [UIDeck](https://uideck.com/)
 
 ---
 
