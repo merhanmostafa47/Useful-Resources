@@ -65,7 +65,7 @@
           <a href="#templates"><b>Templates</b></a>
         </td>
         <td align="center">
-          <a href="#"><b></b></a>
+          <a href="#channels"><b>Youtube Channels</b></a>
         </td>
         <td align="center">
           <a href="#"><b></b></a>
@@ -120,7 +120,7 @@
   - [Javascript.info](https://javascript.info/)
   - [Javascript30](https://javascript30.com/)
 
-- #### CSS
+- #### **CSS**
   - [CSS Timeline](https://css-timeline.vercel.app/)
   - [CSS Ruler](https://katydecorah.com/css-ruler/)
   - [CSS Beautify](https://codebeautify.org/css-tools)
@@ -212,6 +212,21 @@
 - [Just remote](https://justremote.co/)
 - [Remote leaf](https://remoteleaf.com/)
 - [DailyRemote](https://dailyremote.com/)
+
+---
+
+### 🎬<strong id="htmlTips">Youtube Channels</strong>
+
+- [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
+- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+- [codeZone](https://www.youtube.com/@codeZone)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
+- [The TechCave](https://www.youtube.com/@TheTechCave)
+- [KMR Script](https://www.youtube.com/@KMRScript)
+- [Shadow Coding](https://www.youtube.com/@ShadowCoding1)
 
 ---
 
