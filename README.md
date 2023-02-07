@@ -90,6 +90,7 @@
 
 ### :computer:<strong id="websites">Websites</strong>
 
+- [Free for Developers](https://free-for.dev/#/)
 - [Web Code Tools](https://webcode.tools/)
 - [Design Systems](https://designsystemsrepo.com/design-systems-recent/)
 - [Can I Use](https://caniuse.com/)
@@ -308,6 +309,7 @@
 - [Iconer](https://iconer.app/)
 - [Flaticon](https://www.flaticon.com/free-icons/library)
 - [css.gg](https://css.gg/)
+- [phosphoricons](https://phosphoricons.com/)
 - [Lordicon](https://lordicon.com/)
 - [Themify](https://themify.me/themify-icons)
 - [Feathericons](https://feathericons.com/)
