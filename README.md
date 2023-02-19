@@ -99,6 +99,7 @@
 - [Component Gallery](https://component.gallery/)
 - [Brandfetch](https://brandfetch.com/)
 - [Checklist Design](https://www.checklist.design/)
+- [Frontend Checklist](https://frontendchecklist.io/)
 - [Interview-Warmup](https://grow.google/certificates/interview-warmup/)
 - [Magic Eraser](https://www.magiceraser.io/)
 - [Magic Pattern](https://www.magicpattern.design/)
