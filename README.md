@@ -247,6 +247,7 @@
 - [Unsplash](https://unsplash.com/)
 - [Stocksnap](https://stocksnap.io/)
 - [Burst Shopify](https://burst.shopify.com/)
+- [Vecteezy](https://www.vecteezy.com/)
 
 ---
 
