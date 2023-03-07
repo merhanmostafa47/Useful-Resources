@@ -96,6 +96,7 @@
 - [Can I Use](https://caniuse.com/)
 - [Who Can Use](https://www.whocanuse.com/)
 - [Can I Email](https://www.caniemail.com/)
+- [I want to learn](https://learn-anything.xyz/?fbclid=IwAR2nNfsgk_7tGeiLXI_iuCi3a94v4lib_ECsvNLh8ZVgxXh2HSy6mBjqcEU)
 - [Component Gallery](https://component.gallery/)
 - [Brandfetch](https://brandfetch.com/)
 - [Checklist Design](https://www.checklist.design/)
