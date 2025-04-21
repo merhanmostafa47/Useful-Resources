@@ -110,6 +110,7 @@
 - [Documatic](https://www.documatic.com/)
 - [Getform](https://app.getform.io/)
 - [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
+- [.Symbl](https://symbl.revend.group/)
 
 - #### Learning Resources
 
