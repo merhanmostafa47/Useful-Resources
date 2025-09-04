@@ -304,6 +304,7 @@
 - [Magic Pattern](https://www.magicpattern.design/tools/css-backgrounds)
 - [Animated Backgrounds](https://animatedbackgrounds.me/)
 - [Animated Background Generator](https://wweb.dev/resources/animated-css-background-generator/)
+- [Pattern Craft](https://patterncraft.fun/)
 
 ---
 
