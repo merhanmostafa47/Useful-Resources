@@ -217,6 +217,7 @@
 - [Just remote](https://justremote.co/)
 - [Remote leaf](https://remoteleaf.com/)
 - [DailyRemote](https://dailyremote.com/)
+- [Benture](https://benture.io/)
 
 ---
 
