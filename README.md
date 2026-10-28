@@ -93,6 +93,7 @@
 - [Free for Developers](https://free-for.dev/#/)
 - [Web Code Tools](https://webcode.tools/)
 - [Design Systems](https://designsystemsrepo.com/design-systems-recent/)
+- [Design Details](https://designdetails.io/) - Searchable library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 - [Can I Use](https://caniuse.com/)
 - [Who Can Use](https://www.whocanuse.com/)
 - [Can I Email](https://www.caniemail.com/)
